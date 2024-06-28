@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 # Markdown
 
 ![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
 
-<!-- HTML -->
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+![](./kaggle-plates/Competitions/white.svg)
